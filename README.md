@@ -1,4 +1,4 @@
 # arjs03
-An Augmented Reality repository for Geography with AR.js
+An Augmented Reality repository with AR.js
 
 ## Under Construction!
