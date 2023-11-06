@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aeroplano lowpoly animato
+* source:	https://sketchfab.com/3d-models/aeroplano-lowpoly-animato-f16f2c1dccc342a9a640e4029a044af8
+* author:	rosaliarenda (https://sketchfab.com/rosaliarenda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aeroplano lowpoly animato" (https://sketchfab.com/3d-models/aeroplano-lowpoly-animato-f16f2c1dccc342a9a640e4029a044af8) by rosaliarenda (https://sketchfab.com/rosaliarenda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
